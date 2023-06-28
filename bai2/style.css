@@ -1,0 +1,16 @@
+.style-head {
+    text-align: center;
+  
+}
+.style-article {
+width: max-content;
+margin-left: 20%;
+}
+
+.style-img {
+    width: 50px;
+}
+
+.style-comment {
+    color: rgb(163, 163, 152);
+}

@@ -1,0 +1,25 @@
+.size-table {
+    border-collapse: collapse;
+    border:1px solid rgb(210, 186, 86);
+
+}
+
+#google-maps {
+   height: 30%;
+   width: 70%;
+
+}
+
+#style-info {
+    padding-left:30px ;
+    width:300px ;
+}
+
+.table-map {
+    background: rgb(142, 141, 141);
+    margin-top: 50px;
+    
+}
+td {
+    width: 200px;
+}

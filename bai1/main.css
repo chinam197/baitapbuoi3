@@ -1,0 +1,38 @@
+
+.style-aside .icon-img {
+    width:15px;
+}
+.style .style-icon + .style-icon {
+    margin-top: 15px;
+}
+.style .contact-us {
+    margin-left:18px ;
+    margin-bottom:15px ;
+}
+
+
+
+/* thong tin cong ty */
+aside{
+width: 30%;
+float: left;
+
+}
+/* phan thong tin khach hang */
+article{
+    width:70%;
+    margin-left: 40%;
+    margin-top: 20px;
+    padding-top: 50px;
+}
+
+article .submid {
+width:20rem;
+margin-top:10px ;
+}
+
+
+/* nut gui */
+article button{
+    background-color:aquamarine;
+}
